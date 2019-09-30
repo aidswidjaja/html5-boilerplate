@@ -2,7 +2,9 @@
 
 # Clone the git repo
 
-```git clone https://github.com/aidswidjaja/html5-boilerplate```
+```
+git clone https://github.com/aidswidjaja/html5-boilerplate
+```
 
 # Browser support
 
