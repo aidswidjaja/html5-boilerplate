@@ -14,4 +14,4 @@ Chrome 76.0.3809.132 (Official Build) (64-bit)
 
 # License
 
-The code is available under the MPL 2.0 license.
+The code is available under the MPL-2.0 license.
